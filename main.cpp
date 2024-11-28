@@ -1,7 +1,11 @@
 // SVP indiquer votre nom prenom et IDUL
-
+// David Bénard Desjardins: 536 788 905,
+// Léo Mercier: 536 972 948,
+// Stéphanie Giguère: 536 986 277
 
 #include <iostream>
+#include "MemoryManager.h"
+#include "Program.h"
 
 int main() {
     //Important pour les operations d'affichage svp afficher l'adresse de depart pour chacun des programmes ainsi que sa taille
@@ -22,5 +26,7 @@ int main() {
     // Verifier l'access en lecture et ensuite en ecriture sur le segment de données pour program6
 
     std::cout << "Hello, World!" << std::endl;
+    
+
     return 0;
 }

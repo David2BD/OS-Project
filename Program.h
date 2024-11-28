@@ -3,6 +3,10 @@
 //
 // SVP indiquer votre nom prenom et IDUL
 
+// David Bénard Desjardins: 536 788 905,
+// Léo Mercier: 536 972 948,
+// Stéphanie Giguère: 536 986 277
+
 #ifndef TP3_CODE_PROGRAM_H
 #define TP3_CODE_PROGRAM_H
 

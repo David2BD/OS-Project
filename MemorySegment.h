@@ -6,6 +6,7 @@
 #ifndef TP3_CODE_MEMORYSEGMENT_H
 #define TP3_CODE_MEMORYSEGMENT_H
 #include <vector>
+#include <cstddef>
 
 class MemorySegment {
 public:
