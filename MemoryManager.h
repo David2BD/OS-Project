@@ -2,6 +2,9 @@
 // Created by Hamza Alaoui on 2024-11-15.
 //
 // SVP indiquer votre nom prenom et IDUL
+// David Bénard Desjardins: 536 788 905,
+// Léo Mercier: 536 972 948,
+// Stéphanie Giguère: 536 986 277
 
 #ifndef TP3_CODE_MEMORYMANAGER_H
 #define TP3_CODE_MEMORYMANAGER_H
